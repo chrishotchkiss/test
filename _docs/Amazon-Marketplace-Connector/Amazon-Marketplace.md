@@ -9,7 +9,9 @@ Each of the tasks require a connection to Amazon Marketplace, for more informati
 
 Zynk currently supports the UK, US, CA, DE, ES, FR and IT marketplaces.
 
-<version>Test</version>
+---
+version: 1.0
+---
 
 ## Tasks
 * [Exporting Commissions from Amazon Marketplace](exporting-commissions-from-amazon-marketplace)
