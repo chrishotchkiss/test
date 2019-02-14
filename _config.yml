@@ -2,8 +2,8 @@
 # Site
 
 title: Zynk Workflow Documentation
-url: "http://workflow.zynk.com"
-baseurl:
+url: "https://chrishotchkiss.github.io/test/"
+baseurl: "https://chrishotchkiss.github.io/test/"
 google_analytics_key:
 show_full_navigation: false
 
