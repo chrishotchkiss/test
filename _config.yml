@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Zynk Workflow Documentation
+title: Chris Hotchkiss Testing Zynk Workflow Documentation
 url: "https://chrishotchkiss.github.io/test/"
 baseurl: "https://chrishotchkiss.github.io/test/"
 google_analytics_key:
@@ -9,7 +9,7 @@ show_full_navigation: false
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation for Zynk Workflow.
+description: Test Product documentation for Zynk Workflow.
 author:
   name: Adam 
   email: support@zynk.com
